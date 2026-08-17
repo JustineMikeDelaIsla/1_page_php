@@ -1,0 +1,1 @@
+Device checker is a simple one-page web application made using PHP, HTML, CSS, and JavaScript. It displays information about the user's browser and device, such as the internet connection, public IP address, operating system, browser, screen resolution, language, timezone, and webpage information
